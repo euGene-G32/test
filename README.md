@@ -1,4 +1,4 @@
-# Daisyworld-Ice-albedo-
+# Daisyworld-Ice-albedo
 Daisyworld is a modelling project in python for SP3175, under NUS Special Program in Science.
 
 Daisyworld simulation is based on the Gaia hypothesis that James Lovelock created. Daisyworld is a computational simulation where we explore a simple Earth-like world that is only seeded by the two daisies: black daisies and white daisies. It uses the same theory as Energy Balance Model but also accounts for plants' growth and death and looks at their impacts on the planet's temperature.
