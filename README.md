@@ -1,5 +1,6 @@
 # Daisyworld-Ice-albedo
 Codes in this repo has been written by Bharath Shankar and Eugene Gan.
+
 The project was done in collaboration with Bei Yi Yang, Phee Yong Han and Wang Jingye.
 
 Daisyworld is a modelling project in python for SP3175, under NUS Special Program in Science.
